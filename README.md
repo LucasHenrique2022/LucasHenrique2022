@@ -8,7 +8,7 @@
 - 📚 Eu estou aprendendo inglês <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  e PHP
 - 🎲 E ... eu gosto de jogar minecraft
 
-## Eu estou desenvolvendo em
+## I code with
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
